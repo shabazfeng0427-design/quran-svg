@@ -9,42 +9,15 @@
 
 
 
-  <!-- ========================================================================= -->
-  <!-- SURAH 112 HEADER                                                           -->
-  <!-- HOW TO FREELY ADJUST DIRECTION & POSITION:                                -->
-  <!-- • Position: Change translate(170.5, 27.0) to move X, Y                      -->
-  <!-- • Normal Direction: scale(0.15, 0.15)                               -->
-  <!-- • Flip Horizontally (Mirror / RTL direction): scale(-0.15, 0.15)    -->
-  <!-- • Flip Vertically (Upside down): scale(0.15, -0.15)                 -->
-  <!-- • Rotation: change rotate(0) to rotate(180) or any degree                 -->
-  <!-- ========================================================================= -->
-  <g id="header-surah-112" transform="translate(170.5, 27.0) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
+  <g id="header-surah-112" transform="translate(170.5, 25.0) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
     <use href="#header_vector_template" xlink:href="#header_vector_template" />
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- SURAH 113 HEADER                                                           -->
-  <!-- HOW TO FREELY ADJUST DIRECTION & POSITION:                                -->
-  <!-- • Position: Change translate(170.5, 170.8) to move X, Y                      -->
-  <!-- • Normal Direction: scale(0.15, 0.15)                               -->
-  <!-- • Flip Horizontally (Mirror / RTL direction): scale(-0.15, 0.15)    -->
-  <!-- • Flip Vertically (Upside down): scale(0.15, -0.15)                 -->
-  <!-- • Rotation: change rotate(0) to rotate(180) or any degree                 -->
-  <!-- ========================================================================= -->
-  <g id="header-surah-113" transform="translate(170.5, 170.8) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
+  <g id="header-surah-113" transform="translate(170.5, 168.8) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
     <use href="#header_vector_template" xlink:href="#header_vector_template" />
   </g>
 
-  <!-- ========================================================================= -->
-  <!-- SURAH 114 HEADER                                                           -->
-  <!-- HOW TO FREELY ADJUST DIRECTION & POSITION:                                -->
-  <!-- • Position: Change translate(170.5, 351.2) to move X, Y                      -->
-  <!-- • Normal Direction: scale(0.15, 0.15)                               -->
-  <!-- • Flip Horizontally (Mirror / RTL direction): scale(-0.15, 0.15)    -->
-  <!-- • Flip Vertically (Upside down): scale(0.15, -0.15)                 -->
-  <!-- • Rotation: change rotate(0) to rotate(180) or any degree                 -->
-  <!-- ========================================================================= -->
-  <g id="header-surah-114" transform="translate(170.5, 351.2) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
+  <g id="header-surah-114" transform="translate(170.5, 349.2) rotate(0) scale(0.15, 0.15) translate(-1086, -138)">
     <use href="#header_vector_template" xlink:href="#header_vector_template" />
   </g>
 </svg>
